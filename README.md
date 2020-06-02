@@ -1,5 +1,7 @@
 T.W.T.D.K aka. The Web Takedown Kit
 
+DISCLAIMER: The author assumes no responsibility for any illegal activity.
+
 ----------------------------------------------
 This a kit with you can takedown websites!
 
